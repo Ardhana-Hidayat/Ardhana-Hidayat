@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ardhanash"><img src="https://img.shields.io/badge/LinkedIn-ardhanash-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/Ardhana-Hidayat"><img src="https://img.shields.io/badge/LinkedIn-ardhanash-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/ardhanash"><img src="https://img.shields.io/badge/Instagram-ardhanash-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:ardhanahidayat61@gmail.com"><img src="https://img.shields.io/badge/Email-ardhanahidayat61-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
