@@ -1,21 +1,44 @@
-<h1 align="center">Hi 👋, I'm Ardhana</h1>
-<h3 align="center">A passionate frontend developer and UI/UX designer from Indonesia</h3>
+<h1 align="center">Ardhana Syah Hidayat</h1>
 
-- 🌱 I’m currently learning **NextJS, React, Laravel**
-
-- 📫 How to reach me **ardhanahidayat61@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ardhanash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ardhanash" height="30" width="40" /></a>
-<a href="https://instagram.com/ardhanash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ardhanash" height="30" width="40" /></a>
+<p align="center">
+  Frontend developer dan UI/UX designer dari Indonesia.<br/>
+  Membangun produk digital yang rapi, cepat, dan mudah dipakai.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/ardhanash"><img src="https://img.shields.io/badge/LinkedIn-ardhanash-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/ardhanash"><img src="https://img.shields.io/badge/Instagram-ardhanash-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:ardhanahidayat61@gmail.com"><img src="https://img.shields.io/badge/Email-ardhanahidayat61-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ardhana-hidayat&show_icons=true&locale=en&layout=compact" alt="ardhana-hidayat" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ardhana-hidayat&show_icons=true&locale=en" alt="ardhana-hidayat" /></p>
+## Tentang
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ardhana-hidayat&" alt="ardhana-hidayat" /></p>
+Mahasiswa D4 Teknologi Rekayasa Perangkat Lunak di Politeknik Negeri Madiun. Co-founder [KAIZEN](https://kaizen.dev), studio digital yang melayani UMKM di area Madiun. Fokus saya ada di antarmuka web, dari desain di Figma sampai implementasi frontend dan backend.
+
+Saat ini sedang memperdalam NextJS, React, Laravel, dan Golang.
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,react,nextjs,tailwind,typescript,js,laravel,php,go,mysql,postgres,nodejs,firebase&theme=dark" alt="Tech stack" />
+</p>
+
+| Area | Teknologi |
+| --- | --- |
+| Desain | Figma, Adobe Illustrator |
+| Frontend | ReactJS, NextJS, TailwindCSS, TypeScript, JavaScript |
+| Backend | Laravel, Golang, Node.js, Express |
+| Database | MySQL, PostgreSQL, Firebase |
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ardhana-hidayat&show_icons=true&hide_border=true&theme=transparent&title_color=0A66C2&icon_color=0A66C2&text_color=8B949E" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardhana-hidayat&layout=compact&hide_border=true&theme=transparent&title_color=0A66C2&text_color=8B949E" alt="Top languages" />
+</p>
+
+## Kontak
+
+Terbuka untuk kolaborasi dan proyek digital. Hubungi saya lewat [email](mailto:ardhanahidayat61@gmail.com) atau [LinkedIn](https://linkedin.com/in/ardhanash).
