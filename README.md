@@ -1,8 +1,8 @@
 <h1 align="center">Ardhana Syah Hidayat</h1>
 
 <p align="center">
-  Frontend developer dan UI/UX designer dari Indonesia.<br/>
-  Membangun produk digital yang rapi, cepat, dan mudah dipakai.
+  Frontend developer and UI/UX designer from Indonesia.<br/>
+  Building digital products that are clean, fast, and easy to use.
 </p>
 
 <p align="center">
@@ -13,11 +13,11 @@
 
 ---
 
-## Tentang
+## About
 
-Mahasiswa D4 Teknologi Rekayasa Perangkat Lunak di Politeknik Negeri Madiun. Co-founder [KAIZEN](https://kaizen.dev), studio digital yang melayani UMKM di area Madiun. Fokus saya ada di antarmuka web, dari desain di Figma sampai implementasi frontend dan backend.
+Software Engineering Technology (D4) student at Politeknik Negeri Madiun. Co-founder of [KAIZEN](https://kaizen.dev), a digital studio serving small and medium businesses in the Madiun area. I work across the web stack, from design in Figma to frontend and backend implementation.
 
-Saat ini sedang memperdalam NextJS, React, Laravel, dan Golang.
+Currently deepening my skills in NextJS, React, Laravel, and Golang.
 
 ## Tech Stack
 
@@ -25,17 +25,20 @@ Saat ini sedang memperdalam NextJS, React, Laravel, dan Golang.
   <img src="https://skillicons.dev/icons?i=figma,react,nextjs,tailwind,typescript,js,laravel,php,go,mysql,postgres,nodejs,firebase&theme=dark" alt="Tech stack" />
 </p>
 
-| Area | Teknologi |
+| Area | Technologies |
 | --- | --- |
-| Desain | Figma, Adobe Illustrator |
+| Design | Figma, Adobe Illustrator |
 | Frontend | ReactJS, NextJS, TailwindCSS, TypeScript, JavaScript |
 | Backend | Laravel, Golang, Node.js, Express |
 | Database | MySQL, PostgreSQL, Firebase |
 
 ## GitHub Stats
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Ardhana-Hidayat)](https://github.com/stats-organization/github-stats-extended)
+<p align="center">
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=ardhana-hidayat&show_icons=true&hide_border=true&theme=transparent&title_color=0A66C2&icon_color=0A66C2&text_color=8B949E" alt="GitHub stats" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ardhana-hidayat&layout=compact&hide_border=true&theme=transparent&title_color=0A66C2&text_color=8B949E" alt="Top languages" />
+</p>
 
-## Kontak
+## Contact
 
-Terbuka untuk kolaborasi dan proyek digital. Hubungi saya lewat [email](mailto:ardhanahidayat61@gmail.com) atau [LinkedIn](https://linkedin.com/in/ardhanash).
+Open to collaboration and digital projects. Reach me by [email](mailto:ardhanahidayat61@gmail.com) or on [LinkedIn](https://linkedin.com/in/ardhanash).
