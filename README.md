@@ -34,10 +34,7 @@ Saat ini sedang memperdalam NextJS, React, Laravel, dan Golang.
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ardhana-hidayat&show_icons=true&hide_border=true&theme=transparent&title_color=0A66C2&icon_color=0A66C2&text_color=8B949E" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardhana-hidayat&layout=compact&hide_border=true&theme=transparent&title_color=0A66C2&text_color=8B949E" alt="Top languages" />
-</p>
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Ardhana-Hidayat)](https://github.com/stats-organization/github-stats-extended)
 
 ## Kontak
 
